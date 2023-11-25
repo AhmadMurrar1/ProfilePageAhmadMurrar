@@ -1,0 +1,35 @@
+.header{
+    background-color: black;
+    position: sticky;
+    top: 0;
+    z-index: 3;
+}
+.header,ul{
+    display: flex;
+    list-style-type:none;
+    justify-content: space-around;
+    color: rgb(215, 215, 215);
+
+}
+h2{
+    margin-top: 3rem;
+}
+.header ul li{
+width: 7rem;
+margin-top: 3rem;
+
+}
+h2:hover{
+    transition: 0.5s;
+    color:rgb(192, 192, 192) ;
+    cursor: pointer;
+}
+.header ul li a{
+    text-decoration: none;
+    color: rgb(196, 194, 194);
+}
+.header ul li a:hover{
+    transition: 0.5s;
+    color:rgb(255, 251, 251) ;
+    cursor: pointer;
+}
