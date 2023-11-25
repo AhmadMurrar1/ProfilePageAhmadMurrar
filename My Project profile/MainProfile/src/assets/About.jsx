@@ -9,7 +9,7 @@ function About() {
   <div class="container">
     <h4>sample of my projects</h4>
     <h4><b>Minecraft2d</b></h4> 
-    <a href="">Link of it here</a>
+    <a href="https://minecraft-mc.netlify.app">Link of it here</a>
   </div>
 </div>
             <div className="aboutMeInfos"><p>
